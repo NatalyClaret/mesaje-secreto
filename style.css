@@ -8,6 +8,10 @@
     #barra_lateral{
         width:30%;
     }
+    
+    body{
+    font-family: 'Kalam', cursive;
+}
 }
 
 header{
